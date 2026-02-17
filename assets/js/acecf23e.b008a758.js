@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkimeda=globalThis.webpackChunkimeda||[]).push([[1903],{1912(a){a.exports=JSON.parse('{"blogBasePath":"/imeda/blog","blogTitle":"Blog","authorsListPath":"/imeda/blog/authors"}')}}]);
