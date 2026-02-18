@@ -1,5 +1,6 @@
 ---
 title: imEDA Documentation
+sidebar_position: 1
 ---
 
 # imEDA Documentation
