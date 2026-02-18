@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkimeda=globalThis.webpackChunkimeda||[]).push([[265],{6938(a){a.exports=JSON.parse('{"metadata":{"permalink":"/imeda/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
