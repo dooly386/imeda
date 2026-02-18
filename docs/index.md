@@ -3,6 +3,9 @@ title: imEDA Documentation
 sidebar_position: 1
 ---
 
+<img src="/img/ai-banner.png" alt="imEDA Banner" style="width:100%; border-radius:12px; margin-bottom:2rem;" />
+
+
 # imEDA : EDA 가 AI를 만나는 순간
 
 
