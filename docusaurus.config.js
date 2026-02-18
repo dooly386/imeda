@@ -41,8 +41,10 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',   // ← 이 줄 추가
           sidebarPath: require.resolve('./sidebars.js'),
         },
+
       }),
     ],
   ],
