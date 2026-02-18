@@ -1,5 +1,4 @@
 ---
-id: pcb/drc
 title: Drc
 ---
 

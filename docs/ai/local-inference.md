@@ -1,5 +1,4 @@
 ---
-id: ai/local-inference
 title: AI Local Inference
 ---
 

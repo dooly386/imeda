@@ -1,5 +1,4 @@
 ---
-id: engine/core
 title: Core
 ---
 

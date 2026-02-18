@@ -1,5 +1,4 @@
 ---
-id: engine/rendering
 title: Rendering
 ---
 

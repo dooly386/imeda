@@ -1,5 +1,4 @@
 ---
-id: pcb/routint-ai
 title: Routing
 ---
 

@@ -1,5 +1,4 @@
 ---
-id: ai/architecture
 title: AI Architecture
 ---
 
